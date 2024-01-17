@@ -1,1 +1,1 @@
-console.log('Indrajeet')
+console.log('Indrajeet');
